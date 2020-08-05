@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.0] 2020-07-03
+## [1.0.0] 2020-07-06
 ### Original Release
 - Started project with create-react-app
 - Added Reactstrap as base framework

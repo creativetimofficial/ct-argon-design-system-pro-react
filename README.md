@@ -21,7 +21,7 @@ Start your development with a Premium Argon Design System for Bootstrap 4, React
 
 **Complex Documentation**
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this design system [here](https://demos.creative-tim.com/argon-design-system-pro-react/#/documentation/getting-started/overview?ref=adspr-github-readme). You can check the components [here](https://demos.creative-tim.com/argon-design-system-pro-react/#/documentation/components/alerts?ref=adspr-github-readme) and the foundation [here](https://demos.creative-tim.com/argon-design-system-pro-react/#/documentation/foundation/colors?ref=adspr-github-readme).
+Each element is well presented in a very complex documentation. You can read more about the idea behind this design system [here](https://www.creative-tim.com/learning-lab/reactstrap/overview/argon-design-system?ref=adspr-github-readme). You can check the components [here](https://www.creative-tim.com/learning-lab/reactstrap/core-accordions/argon-design-system?ref=adspr-github-readme) and the foundation [here](https://www.creative-tim.com/learning-lab/reactstrap/colors/argon-design-system?ref=adspr-github-readme).
 
 **Example Pages**
 
