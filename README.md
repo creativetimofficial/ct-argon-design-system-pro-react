@@ -1,8 +1,6 @@
-# [Argon Design System PRO React](http://demos.creative-tim.com/argon-design-system-pro-react/#/index?ref=adspr-github-readme)  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-design-system-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-design-system-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
+# [Argon Design System PRO React](http://demos.creative-tim.com/argon-design-system-pro-react/#/index?ref=adspr-github-readme) ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-design-system-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-design-system-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Argon Design System PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-react/argon-design-system-pro-react.jpg)
-
 
 Start your development with a **Premium Argon Design System for Bootstrap 4, React, Reactstrap and React Hooks**. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
@@ -35,68 +33,67 @@ If you want to get inspiration or just show something directly to your clients, 
 
 **Argon Design System PRO React** is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports React Hooks.
 
-
 ## Table of contents
 
--   [Versions](#versions)
--   [Getting Started](#getting-started)
--   [Example Pages](#example-pages)
--   [Documentation](#complex-documentation)
--   [Tutorial](#tutorial)
--   [File Structure](#file-structure)
--   [Dashboards](#dashboards)
--   [Browser Support](#browser-support)
--   [Technical Support or Questions](#technical-support-or-questions)
--   [Useful Links](#useful-links)
+- [Versions](#versions)
+- [Getting Started](#getting-started)
+- [Example Pages](#example-pages)
+- [Documentation](#complex-documentation)
+- [Tutorial](#tutorial)
+- [File Structure](#file-structure)
+- [Dashboards](#dashboards)
+- [Browser Support](#browser-support)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Useful Links](#useful-links)
 
 ## Versions
 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro?ref=adspr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro-angular?ref=adspr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro-react?ref=adspr-github-readme)
 
-| HTML | Angular | React  |
-| --- | --- |---  |
-| [![Argon Design System PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro/argon-design-system-pro.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro?ref=adspr-github-readme)  | [![Argon Design System PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-angular/argon-design-system-pro-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-angular?ref=adspr-github-readme)  | [![Argon Design System PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-react/argon-design-system-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-react?ref=adspr-github-readme)
+| HTML                                                                                                                                                                                                                                                   | Angular                                                                                                                                                                                                                                                                           | React                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Argon Design System PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro/argon-design-system-pro.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro?ref=adspr-github-readme) | [![Argon Design System PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-angular/argon-design-system-pro-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-angular?ref=adspr-github-readme) | [![Argon Design System PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-react/argon-design-system-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-react?ref=adspr-github-readme) |
 
 ## Getting Started
 
-*   Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/)
-*   Go to [creative tim website](https://www.creative-tim.com/?ref=adspr-github-readme) and login into your account
-*   Go to [downloads](https://www.creative-tim.com/downloads?ref=adspr-github-readme) section on creative tim website (be sure to be logged into your account)
-*   Press the download button near **Argon Design System PRO React** product (this will download onto your computer a zip file)
-*   Unzip the downloaded file to a folder in your computer
-*   Open Terminal
-*   Go to your file project (where you've unzipped the product)
-*   Run in terminal `npm install`
-*   Then run `npm start`
-*   Or you can simply run `npm run install:clean` (if you use a linux based terminal) which will install `node_modules` and also will start your project.
-*   If you have an error something containing **Module not found** you need to add our `jsconfig.json` file to your project
-*   If you have an error containing **props.history of undefined** (this can happen when you integrate our project with another one) then you need to make the changes found [here](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/70)
-*   (Optional) You can create a new react application like this
-    *   Go to the folder where you want to create your app
-    *   Run in terminal `npx create-react-app your-app-name`
-    *   Navigate to `your-app-name`
-    *   Run in terminal `npm start`
-    *   Copy what you need from Argon Design System PRO React to your own project
-    *   More information → [create-react-app](https://github.com/facebookincubator/create-react-app)
-*   Navigate to [https://localhost:3000](https://localhost:3000)
-*   More information → [react](https://reactjs.org/docs/installation.html)
+- Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/)
+- Go to [creative tim website](https://www.creative-tim.com/?ref=adspr-github-readme) and login into your account
+- Go to [downloads](https://www.creative-tim.com/downloads?ref=adspr-github-readme) section on creative tim website (be sure to be logged into your account)
+- Press the download button near **Argon Design System PRO React** product (this will download onto your computer a zip file)
+- Unzip the downloaded file to a folder in your computer
+- Open Terminal
+- Go to your file project (where you've unzipped the product)
+- Run in terminal `npm install`
+- Then run `npm start`
+- Or you can simply run `npm run install:clean` (if you use a linux based terminal) which will install `node_modules` and also will start your project.
+- If you have an error something containing **Module not found** you need to add our `jsconfig.json` file to your project
+- If you have an error containing **props.history of undefined** (this can happen when you integrate our project with another one) then you need to make the changes found [here](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/70)
+- (Optional) You can create a new react application like this
+  - Go to the folder where you want to create your app
+  - Run in terminal `npx create-react-app your-app-name`
+  - Navigate to `your-app-name`
+  - Run in terminal `npm start`
+  - Copy what you need from Argon Design System PRO React to your own project
+  - More information → [create-react-app](https://github.com/facebookincubator/create-react-app)
+- Navigate to [https://localhost:3000](https://localhost:3000)
+- More information → [react](https://reactjs.org/docs/installation.html)
 
 ## Example Pages
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
--   [Live Preview](http://demos.creative-tim.com/argon-design-system-pro-react/#/index?ref=adspr-github-readme)
--   [About Us](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/about-us?ref=adspr-github-readme)
--   [Product Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/product-page?ref=adspr-github-readme)
--   [Landing Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/landing-page?ref=adspr-github-readme)
--   [Ecommerce Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/ecommerce?ref=adspr-github-readme)
--   [Account Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/account-settings?ref=adspr-github-readme)
--   [Chat Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/chat-page)
-
+- [Live Preview](http://demos.creative-tim.com/argon-design-system-pro-react/#/index?ref=adspr-github-readme)
+- [About Us](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/about-us?ref=adspr-github-readme)
+- [Product Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/product-page?ref=adspr-github-readme)
+- [Landing Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/landing-page?ref=adspr-github-readme)
+- [Ecommerce Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/ecommerce?ref=adspr-github-readme)
+- [Account Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/account-settings?ref=adspr-github-readme)
+- [Chat Page](http://demos.creative-tim.com/argon-design-system-pro-react/#/examples/chat-page)
 
 ## File Structure
 
 Within the download you'll find the following directories and files:
+
 ```
 Argon Design System PRO React
 .
@@ -395,18 +392,17 @@ Argon Design System PRO React
 
 ## Dashboards
 
-| HTML | Angular | React  |
-| --- | --- |---  |
-| [![Argon Dashboard PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro/argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro?ref=adspr-github-readme)  | [![Argon Dashboard PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-angular/opt_adp_angular_thumbnail.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-angular?ref=adspr-github-readme)  | [![Argon Dashboard PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-react/argon-dashboard-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-react?ref=adspr-github-readme)
+| HTML                                                                                                                                                                                                                                   | Angular                                                                                                                                                                                                                                                         | React                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Argon Dashboard PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro/argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro?ref=adspr-github-readme) | [![Argon Dashboard PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-angular/opt_adp_angular_thumbnail.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-angular?ref=adspr-github-readme) | [![Argon Dashboard PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-react/argon-dashboard-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-react?ref=adspr-github-readme) |
 
-| BootstrapVue | Vue | Nuxt  |
-| --- | --- |---  |
-| [![BootstrapVue Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/bootstrap-vue-argon-dashboard-pro/opt_badp_thumbnail.jpg)](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard-pro?ref=adspr-github-readme)  | [![Vue Argon Dashboard PRO](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/vue-argon-dashboard-pro?ref=adspr-github-readme)  | [![Nuxt Argon Dashboard PRO](https://github.com/creativetimofficial/public-assets/blob/master/nuxt-argon-dashboard-pro/nuxt-argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro?ref=adspr-github-readme)
+| BootstrapVue                                                                                                                                                                                                                                                               | Vue                                                                                                                                                                                                                                               | Nuxt                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![BootstrapVue Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/bootstrap-vue-argon-dashboard-pro/opt_badp_thumbnail.jpg)](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard-pro?ref=adspr-github-readme) | [![Vue Argon Dashboard PRO](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/vue-argon-dashboard-pro?ref=adspr-github-readme) | [![Nuxt Argon Dashboard PRO](https://github.com/creativetimofficial/public-assets/blob/master/nuxt-argon-dashboard-pro/nuxt-argon-dashboard-pro.jpg?raw=true)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro?ref=adspr-github-readme) |
 
-| NodeJS | Laravel |
-| --- | --- |
-| [![Argon Dashboard PRO NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs?ref=adspr-github-readme)  | [![Argon Dashboard PRO Laravel](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel?ref=adspr-github-readme)  |
-
+| NodeJS                                                                                                                                                                                                                                                         | Laravel                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Argon Dashboard PRO NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs?ref=adspr-github-readme) | [![Argon Dashboard PRO Laravel](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel?ref=adspr-github-readme) |
 
 ## Browser Support
 
@@ -420,24 +416,24 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Useful Links
 
--   More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes?ref=adspr-github-readme>
+- More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes?ref=adspr-github-readme>
 
--   Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
+- Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
--   Freebies: <http://www.creative-tim.com/products?ref=adspr-github-readme>
+- Freebies: <http://www.creative-tim.com/products?ref=adspr-github-readme>
 
--   Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new?ref=adspr-github-readme>
+- Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new?ref=adspr-github-readme>
 
 ## Social Media:
 
--   Twitter: <https://twitter.com/CreativeTim>
+- Twitter: <https://twitter.com/CreativeTim>
 
--   Facebook: <https://www.facebook.com/CreativeTim>
+- Facebook: <https://www.facebook.com/CreativeTim>
 
--   Dribbble: <https://dribbble.com/creativetim>
+- Dribbble: <https://dribbble.com/creativetim>
 
--   Google+: <https://plus.google.com/+CreativetimPage>
+- Google+: <https://plus.google.com/+CreativetimPage>
 
--   Instagram: <https://instagram.com/creativetimofficial>
+- Instagram: <https://instagram.com/creativetimofficial>
 
 [changelog]: ./CHANGELOG.md
